@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view>
+ <view>index</view>
+ <button bindtap="getLatest">获取</button>
+</view>

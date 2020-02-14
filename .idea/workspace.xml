@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xh8wzvGL1wYSRUhQwD7IHFXvAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="" />
+      <created>1581487208511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581487208511</updated>
+      <workItem from="1581487209783" duration="2573000" />
+      <workItem from="1581511705336" duration="3081000" />
+      <workItem from="1581607488622" duration="2775000" />
+      <workItem from="1581645081364" duration="11778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="356" key="EditFileWatcherDialog" timestamp="1581678681819">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="586" y="356" key="EditFileWatcherDialog/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581678681819" />
+    <state x="461" y="222" key="SettingsEditor" timestamp="1581678682585">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="222" key="SettingsEditor/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581678682585" />
+    <state x="616" y="270" key="run.anything.popup" timestamp="1581669566189">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" key="run.anything.popup/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581669566189" />
+  </component>
+</project>
