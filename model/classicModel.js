@@ -1,6 +1,6 @@
 import {Http} from "../utils/http";
 
-class Classic {
+class ClassicModel {
     static async getLatest(){
         const res = await Http.request('/classic/latest')
         return res
@@ -8,5 +8,5 @@ class Classic {
 }
 
 export {
-    Classic
+    ClassicModel
 }

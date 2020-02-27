@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="" />
+    <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/classic/movie/images/movie@tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/like/images/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/like/images/like@dis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/likeModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/classic.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/classicModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/http.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xh8wzvGL1wYSRUhQwD7IHFXvAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,10 +35,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\movie\images" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\like\images" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,6 +74,13 @@
       <workItem from="1581511705336" duration="3081000" />
       <workItem from="1581607488622" duration="2775000" />
       <workItem from="1581645081364" duration="11778000" />
+      <workItem from="1581696669388" duration="477000" />
+      <workItem from="1581956577633" duration="301000" />
+      <workItem from="1582100274390" duration="416000" />
+      <workItem from="1582179393793" duration="3100000" />
+      <workItem from="1582439336364" duration="1198000" />
+      <workItem from="1582731324025" duration="811000" />
+      <workItem from="1582788748629" duration="14069000" />
     </task>
     <servers />
   </component>
@@ -53,6 +88,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="238" key="#Inspections" timestamp="1582180402838">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Inspections/0.0.1920.1160/-3840.-392.1920.1040@0.0.1920.1160" timestamp="1582180402838" />
     <state x="586" y="356" key="EditFileWatcherDialog" timestamp="1581678681819">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
