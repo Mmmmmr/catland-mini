@@ -1,4 +1,4 @@
-<view>
+<view hidden="{{hidden}}">
     <image src="{{img}}"></image>
     <image src="{{playSrc}}"></image>
     <image src="images/music@tag.png"></image>

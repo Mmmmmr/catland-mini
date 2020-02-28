@@ -2,35 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/component/classic/classic-beh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/essay/images/essay@tag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/essay/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/essay/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/essay/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/essay/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/images/music@tag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/images/player@pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/images/player@play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/classic/music/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/images/triangle.dis@left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/images/triangle.dis@right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/images/triangle@left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/images/triangle@right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/navi/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/movie/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/movie/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/like/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/like/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/classic-beh.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/classic-beh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/movie/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/movie/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/music/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/classicModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/classicModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/likeModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/likeModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/classic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/classic/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/classic/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/classic/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +86,7 @@
       <workItem from="1582439336364" duration="1198000" />
       <workItem from="1582731324025" duration="811000" />
       <workItem from="1582788748629" duration="14213000" />
-      <workItem from="1582869793348" duration="6947000" />
+      <workItem from="1582869793348" duration="12974000" />
     </task>
     <servers />
   </component>
@@ -131,5 +113,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="616" y="270" key="run.anything.popup/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581669566189" />
+    <state x="-3217" y="-166" width="672" height="678" key="search.everywhere.popup" timestamp="1582904648901">
+      <screen x="-3840" y="-392" width="1920" height="1040" />
+    </state>
+    <state x="-3217" y="-166" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1582904648901" />
   </component>
 </project>
