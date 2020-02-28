@@ -3,16 +3,12 @@ import {LikeModel} from "../../model/likeModel";
 
 Page({
 
-  /**
-   * 页面的初始数据
-   */
   data: {
-    classic: null
+    classic: null,
+    latest: true,
+    first: false
   },
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
   onLoad: async function (options) {
     const res = await ClassicModel.getLatest()
     this.setData({
@@ -26,52 +22,21 @@ Page({
     await LikeModel.like(behavior, this.data.classic.id, this.data.classic.type)
   },
 
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-
+   onNext(){
+     this._updateClassic('next')
   },
 
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
-
+   onPrevious(){
+     this._updateClassic('previous')
   },
 
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage: function () {
-
+  async _updateClassic(nextOrPrevious){
+    let index = this.data.classic.index
+    let res = await ClassicModel.getClassic(index, nextOrPrevious)
+    this.setData({
+      classic: res,
+      latest: ClassicModel.isLatest(res.index),
+      first: ClassicModel.isFirst(res.index)
+    })
   }
 })

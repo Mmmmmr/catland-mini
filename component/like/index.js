@@ -17,7 +17,7 @@ Component({
    */
   data: {
     yesSrc: './images/like.png',
-    noSrc: './images/like@dis.png'
+     noSrc: './images/like@dis.png'
   },
 
   /**
