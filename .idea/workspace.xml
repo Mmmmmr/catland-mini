@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/component/classic/common.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/classic-beh.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/classic-beh.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/movie/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/movie/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/movie/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/movie/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/music/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/component/classic/music/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/classicModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/classicModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/likeModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/likeModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/classic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/classic/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/classic/music/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/classic/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +83,8 @@
       <workItem from="1582439336364" duration="1198000" />
       <workItem from="1582731324025" duration="811000" />
       <workItem from="1582788748629" duration="14213000" />
-      <workItem from="1582869793348" duration="12974000" />
+      <workItem from="1582869793348" duration="13286000" />
+      <workItem from="1582950963171" duration="8751000" />
     </task>
     <servers />
   </component>
@@ -109,9 +107,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="222" key="SettingsEditor/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581678682585" />
-    <state x="616" y="270" key="run.anything.popup" timestamp="1581669566189">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="-3223" y="-149" key="run.anything.popup" timestamp="1582971164313">
+      <screen x="-3840" y="-392" width="1920" height="1040" />
     </state>
+    <state x="-3223" y="-149" key="run.anything.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1582971164313" />
     <state x="616" y="270" key="run.anything.popup/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581669566189" />
     <state x="-3217" y="-166" width="672" height="678" key="search.everywhere.popup" timestamp="1582904648901">
       <screen x="-3840" y="-392" width="1920" height="1040" />

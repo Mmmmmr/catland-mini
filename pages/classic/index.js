@@ -35,7 +35,6 @@ Page({
 
   async _getLikeStatus(artID, category){
     const res = await LikeModel.getClassicStatus(artID, category)
-    console.log(res)
     this.setData({
       likeCount: res.fav_nums,
       likeStatus: res.likeStatus
