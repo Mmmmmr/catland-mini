@@ -2,14 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/component/classic/common.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/book/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/book/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/book/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/book/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/mask/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/mask/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/mask/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/mask/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/tag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/tag/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/tag/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/tag/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/book/quality.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/book/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/course.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/my@bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/study.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my/vendor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/book@highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/classic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/classic@highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tab/my@highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/bookModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/book-detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/book-detail/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/book-detail/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/book-detail/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/filter.wxs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/essay/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/essay/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/movie/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/movie/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/music/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/music/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/classic/music/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/classic/music/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/classic/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/likeModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/likeModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +64,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/component/classic/essay" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\essay" />
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\music" />
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\navi" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\movie\images" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\like\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\essay" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\music" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\navi" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -84,7 +116,9 @@
       <workItem from="1582731324025" duration="811000" />
       <workItem from="1582788748629" duration="14213000" />
       <workItem from="1582869793348" duration="13286000" />
-      <workItem from="1582950963171" duration="8751000" />
+      <workItem from="1582950963171" duration="11168000" />
+      <workItem from="1583028789555" duration="11117000" />
+      <workItem from="1583130272768" duration="7785000" />
     </task>
     <servers />
   </component>
@@ -112,9 +146,9 @@
     </state>
     <state x="-3223" y="-149" key="run.anything.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1582971164313" />
     <state x="616" y="270" key="run.anything.popup/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581669566189" />
-    <state x="-3217" y="-166" width="672" height="678" key="search.everywhere.popup" timestamp="1582904648901">
+    <state x="-3214" y="-163" width="672" height="678" key="search.everywhere.popup" timestamp="1583068195664">
       <screen x="-3840" y="-392" width="1920" height="1040" />
     </state>
-    <state x="-3217" y="-166" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1582904648901" />
+    <state x="-3214" y="-163" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1583068195664" />
   </component>
 </project>
