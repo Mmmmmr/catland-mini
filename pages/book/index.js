@@ -1,21 +1,28 @@
 import {BookModel} from "../../model/bookModel";
 import {LikeModel} from "../../model/likeModel";
-
+import {random} from '../../utils/util.js'
 Page({
 
-  /**
-   * 页面的初始数据
-   */
   data: {
-    books: []
+    books: [],
+    searching: false
   },
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
   onLoad: async function (options) {
     const res = await BookModel.getHotList()
     this.setData({books: res})
-  }
+  },
+
+  onSearching(event){
+    this.setData({
+      searching:true
+    })
+  },
+
+  onReachBottom: function (event) {
+    this.setData({
+      more:random(16)
+    })
+  },
 
 })

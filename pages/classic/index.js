@@ -13,6 +13,7 @@ Page({
 
   onLoad: async function (options) {
     const res = await ClassicModel.getLatest()
+    console.log(res)
     this.setData({
       classic: res,
       likeCount: res.fav_nums,
@@ -37,7 +38,7 @@ Page({
     const res = await LikeModel.getClassicStatus(artID, category)
     this.setData({
       likeCount: res.fav_nums,
-      likeStatus: res.likeStatus
+      likeStatus: res.like_status
     })
 
   },

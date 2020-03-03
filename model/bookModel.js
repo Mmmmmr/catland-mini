@@ -1,6 +1,17 @@
 import {Http} from "../utils/http";
 
 class BookModel {
+    static async search(start, q){
+        return await Http.request('/book/search?summary=1',"GET", {
+            q,
+            start
+        })
+    }
+
+    static async getMyBookCount(){
+        return await Http.request('/book/favor/count')
+    }
+
     static async getHotList(){
         return await Http.request('/book/hot_list')
     }

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "v-tag":"/component/tag/index",
+    "v-like": "/component/like/index"
+  }
+}

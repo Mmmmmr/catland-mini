@@ -1,6 +1,11 @@
 import {Http} from "../utils/http";
 
 class ClassicModel {
+    static async getMyFavor(index){
+        return await Http.request('/classic/favor')
+    }
+
+
     static async getLatest(){
         const res = await Http.request('/classic/latest')
         wx.setStorageSync(this._getKey(res.index), res)

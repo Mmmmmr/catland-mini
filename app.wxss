@@ -1,4 +1,4 @@
-page {
+page{
     font-family: "PingFangSC-Thin";
     font-size:32rpx;
 }

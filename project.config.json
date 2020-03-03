@@ -60,9 +60,9 @@
 			"list": [
 				{
 					"id": 0,
-					"name": "pages/book-detail/index",
-					"pathName": "pages/book-detail/index",
-					"query": "bid=7",
+					"name": "pages/my/index",
+					"pathName": "pages/my/index",
+					"query": "",
 					"scene": null
 				}
 			]
