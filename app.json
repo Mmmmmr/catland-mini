@@ -38,5 +38,6 @@
         "pagePath": "pages/my/index"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap13.json"
 }
