@@ -37,6 +37,7 @@ class Http {
             if(code.startsWith('4')){
                 if(code === '403'){
                     res = await this._refetch(url, method, data)
+                    return res.data
                 }
             }
         }

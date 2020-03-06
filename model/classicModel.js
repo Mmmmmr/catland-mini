@@ -19,6 +19,10 @@ class ClassicModel {
     }
 
 
+    static async getById(cid, type) {
+        const res = await Http.request(`/classic/${type}/${cid}`)
+        return res
+    }
 
     static async getClassic(index, nextOrPrevious){
         let key = nextOrPrevious == 'next' ? this._getKey(index + 1) : this._getKey(index - 1)

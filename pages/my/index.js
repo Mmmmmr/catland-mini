@@ -92,7 +92,7 @@ Page({
     const type = event.detail.type
     // wx.navigateTo
     wx.navigateTo({
-      url:`/pages/classic-detail/classic-detail?cid=${cid}&type=${type}`
+      url:`/pages/classic-detail/index?cid=${cid}&type=${type}`
     })
   }
 

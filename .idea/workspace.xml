@@ -2,42 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd5cf3a-f466-45c9-938c-a65259065bab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/component/behaviors/pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/image-button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/image-button/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/image-button/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/image-button/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/preview/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/preview/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/preview/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/preview/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/images/cancel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/search/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/keyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/like/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/like/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/epsoide/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/episode/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/epsoide/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/component/episode/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/epsoide/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/component/episode/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/epsoide/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/component/episode/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/my/course.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/my/study.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/my/vendor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/bookModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/bookModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/classicModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/classicModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/classic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/classic/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/classic/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/classic/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classic/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/my/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/my/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/my/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/my/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/http.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +46,17 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\movie\images" />
+      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\like\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\search" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\essay" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic\music" />
       <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\navi" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\classic" />
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\movie\images" />
-      <recent name="C:\Users\crazycat\Desktop\catisland-mini\component\like\images" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -117,7 +96,9 @@
       <workItem from="1582950963171" duration="11168000" />
       <workItem from="1583028789555" duration="11117000" />
       <workItem from="1583130272768" duration="21057000" />
-      <workItem from="1583213249222" duration="11394000" />
+      <workItem from="1583213249222" duration="11488000" />
+      <workItem from="1583386394431" duration="1000" />
+      <workItem from="1583477201121" duration="9099000" />
     </task>
     <servers />
   </component>
@@ -145,9 +126,10 @@
     </state>
     <state x="-3223" y="-149" key="run.anything.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1582971164313" />
     <state x="616" y="270" key="run.anything.popup/0.0.1920.1160/1920.-240.1920.1040@0.0.1920.1160" timestamp="1581669566189" />
-    <state x="-3214" y="-163" width="672" height="678" key="search.everywhere.popup" timestamp="1583068195664">
-      <screen x="-3840" y="-392" width="1920" height="1040" />
+    <state x="626" y="255" width="672" height="757" key="search.everywhere.popup" timestamp="1583477316907">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="-3214" y="-163" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/-3840.-392.1920.1040@-3840.-392.1920.1040" timestamp="1583068195664" />
+    <state x="626" y="255" width="672" height="757" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1583477316907" />
   </component>
 </project>

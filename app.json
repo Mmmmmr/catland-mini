@@ -3,7 +3,8 @@
     "pages/classic/index",
     "pages/book/index",
     "pages/my/index",
-    "pages/book-detail/index"
+    "pages/book-detail/index",
+    "pages/classic-detail/index"
   ],
   "window": {
     "navigationBarBackgroundColor": "#ffffff",
@@ -37,7 +38,5 @@
         "pagePath": "pages/my/index"
       }
     ]
-  },
-  "style": "v2",
-  "sitemapLocation": "sitemap.json"
+  }
 }
