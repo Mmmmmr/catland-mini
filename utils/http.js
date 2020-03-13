@@ -32,8 +32,6 @@ class Http {
         if(code.startsWith('2')){
             return res.data
         }else {
-            let errorCode = res.data.errorCode
-            this._show_error(errorCode)
             if(code.startsWith('4')){
                 if(code === '403'){
                     res = await this._refetch(url, method, data)
