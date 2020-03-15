@@ -21,7 +21,6 @@ Component({
     const type = this.properties.type;
     if (!cid) {
       const res = await ClassicModel.getLatest();
-      console.log(res);
       this.setData({
         classic: res,
         likeCount: res.fav_nums,

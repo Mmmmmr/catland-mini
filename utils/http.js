@@ -25,7 +25,6 @@ class Http {
           Authorization: this._encode()
         }
       });
-     
     } catch (e) {
       this._show_error(1);
     }
