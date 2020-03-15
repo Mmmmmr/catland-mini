@@ -1,8 +1,8 @@
-import {Token} from "./model/token";
+import { Token } from "./model/token";
 
 App({
-    onLaunch: function () {
-        const token = new Token()
-        token.verify()
-    }
-})
+  onLaunch: async function() {
+    const token = new Token();
+    await token.verify();
+  }
+});
